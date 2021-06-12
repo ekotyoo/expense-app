@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-![](untitled.gif)
+![](demo.gif)
 
 ## Getting Started
 
